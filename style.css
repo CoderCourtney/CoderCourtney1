@@ -59,10 +59,10 @@ a:hover {
 h1 {
 	font-family: Georgia, 'Times New Roman', Times, serif;
 	font-size: 60px;
-  color: #292557;
+  	color: #292557;
 	padding-top: 50px;
 	margin: 20px;
-  text-align: center;
+  	text-align: center;
 }
 
 
@@ -125,8 +125,8 @@ p, ul, ol {
 	font-size: 18px;
   color: #000000;
 	margin: 20px;
-	margin-left:100px;
-	margin-right:100px;
+	margin-left:200px;
+	margin-right:200px;
   text-align: left;
 }
 
